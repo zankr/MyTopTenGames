@@ -1,0 +1,84 @@
+{
+    "result": [
+    {
+      "name": "Valorant",
+      "release": "2021",
+      "Genre": "First-Person Shooter (FPS)",
+      "Harga": "Free",
+      "Developer": "RIOT GAMES",
+      "Foto": "https://assets.altarofgaming.com/wp-content/uploads/2021/11/valorant-game-cover-altar-of-gaming.jpg"
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "release": "2017",
+      "Genre": "Action RPG",
+      "Harga": "USD 59.99",
+      "Developer": "Nintendo",
+      "Foto": "https://m.media-amazon.com/images/I/91Aa9ZIAaoL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "release": "2018",
+      "genre": "Action-Adventure",
+      "harga": "Sekitar USD 59.99",
+      "developer": "Rockstar Games",
+      "Foto": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg"
+    },
+    {
+      "name": "God of War (2018)",
+      "release": "2018",
+      "genre": "Action-Adventure",
+      "harga": "Sekitar USD 39.99",
+      "developer": "Santa Monica Studio",
+      "Foto": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/LsaRVLF2IU2L1FNtu9d3MKLq.jpg"
+    },
+    {
+      "name": "Persona 5",
+      "release": "2016 (di Jepang), 2017 (internasional)",
+      "genre": "JRPG (Japanese Role-Playing Game)",
+      "harga": "Sekitar USD 59.99",
+      "developer": "Atlus",
+      "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTei-2zxsMcuxm95VV_2xDmOTesqczJwodB-r4PNxbBi84gqQaXGbKNhFuMDB9WyMc0Elo&usqp=CAU"
+    },
+    {
+      "name": "Overwatch",
+      "release": "2016",
+      "genre": "First-Person Shooter (FPS)",
+      "harga": "Sekitar USD 39.99",
+      "developer": "Blizzard Entertainment",
+      "Foto": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Overwatch_cover_art.jpg/220px-Overwatch_cover_art.jpg"
+    },
+    {
+      "name": "Dark Souls III",
+      "release": "2016",
+      "genre": "Action RPG",
+      "harga": "Sekitar USD 59.99",
+      "developer": "FromSoftware",
+      "Foto": "https://image.api.playstation.com/cdn/HP0700/CUSA03434_00/8h7cWRisC1eoKS3dNjsSt7bMM59QDsJhh2VpJ5v0j18T57tUOabxc3QaG8A5HAJw.png"
+    },
+    {
+      "name": "Fortnite",
+      "release": "2017",
+      "genre": "Battle Royale, Third-Person Shooter",
+      "harga": "Gratis (dengan opsi pembelian dalam game)",
+      "developer": "Epic Games",
+      "Foto": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0220/b2f6d383b0d49f69646e6f4231bfcb4d5255083b228d18b1.png"
+    },
+    {
+      "name": "Minecraft",
+      "release": "2011",
+      "genre": "Sandbox, Survival",
+      "harga": "Sekitar USD 26.95",
+      "developer": "Mojang Studios",
+      "Foto": "https://image.api.playstation.com/vulcan/img/cfn/11307HDYQLInHUkUC8WJwfsExISfTWdatsFPRxE3UqeG3b8AV193V941R62r7jE4pJUkyiz5ijf6DS3KYq2LZaiCWW81j3b6.png"
+    },
+    {
+      "name": "Assassin's Creed Odyssey",
+      "release": "2018",
+      "genre": "Action RPG",
+      "harga": "Sekitar USD 59.99",
+      "developer": "Ubisoft Quebec",
+      "Foto": "https://upload.wikimedia.org/wikipedia/en/9/99/ACOdysseyCoverArt.png"
+    }
+   ]
+  }
