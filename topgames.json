@@ -3,17 +3,17 @@
     {
       "name": "Valorant",
       "release": "2021",
-      "Genre": "First-Person Shooter (FPS)",
-      "Harga": "Free",
-      "Developer": "RIOT GAMES",
+      "genre": "First-Person Shooter (FPS)",
+      "harga": "Free",
+      "developer": "RIOT GAMES",
       "Foto": "https://assets.altarofgaming.com/wp-content/uploads/2021/11/valorant-game-cover-altar-of-gaming.jpg"
     },
     {
       "name": "The Legend of Zelda: Breath of the Wild",
       "release": "2017",
-      "Genre": "Action RPG",
-      "Harga": "USD 59.99",
-      "Developer": "Nintendo",
+      "genre": "Action RPG",
+      "harga": "USD 59.99",
+      "developer": "Nintendo",
       "Foto": "https://m.media-amazon.com/images/I/91Aa9ZIAaoL._AC_UF1000,1000_QL80_.jpg"
     },
     {
